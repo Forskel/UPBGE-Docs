@@ -13,7 +13,7 @@ default Blender/UPBGE settings and shortcuts.
 Clicking anywhere else to dismiss the splash screen, you are presented with an empty
 workspace like this:
 
-.. figure:: /images/Chapter1/Fig01-20.jpg
+.. figure:: /source/images/Chapter1/Fig01-20.jpg
 
    Blender/UPBGE default workspace.
 
@@ -29,7 +29,7 @@ Open, Save, and Help. Furthermore, the main menu controls the view for the rest 
 Blender/UPBGE window. The Render Engine option in the middle of the menu controls how the
 interface is configured.
 
-.. figure:: /images/Chapter1/Fig01-21.png
+.. figure:: /source/images/Chapter1/Fig01-21.png
    :figwidth: 40%
    :align: left
 
@@ -58,7 +58,7 @@ To select one of the objects, right-click on it. The selected object is highligh
    wheel to zoom in the 3D view. Right-click to select a 3D object.
    Selected objects are highlighted in yellow.
 
-.. figure:: /images/Chapter1/Fig01-23.png
+.. figure:: /source/images/Chapter1/Fig01-23.png
    :figwidth: 25%
    :align: left
 
@@ -77,7 +77,7 @@ the number pad is the way to go.
 Outliner
 --------
 
-.. figure:: /images/Chapter1/Fig01-20b.png
+.. figure:: /source/images/Chapter1/Fig01-20b.png
    :figwidth: 33%
    :align: right
 
@@ -92,7 +92,7 @@ safely ignore it.
 Properties Editor
 -----------------
 
-.. figure:: /images/Chapter1/Fig01-24.png
+.. figure:: /source/images/Chapter1/Fig01-24.png
    :figwidth: 33%
    :align: right
 
@@ -112,7 +112,7 @@ Timeline
 
 At the very bottom of the screen is a timeline window, which will be useful when you start making animations.
 
-.. figure:: /images/Chapter1/Fig01-20c.png
+.. figure:: /source/images/Chapter1/Fig01-20c.png
 
    Timeline
 
@@ -139,7 +139,7 @@ adjacent editors together.
 Figure 1.25 shows one area split into two. You can do it by dragging the top corner
 of the area to the right or bottom
 
-.. figure:: /images/Chapter1/Fig01-25.png
+.. figure:: /source/images/Chapter1/Fig01-25.png
 
    Area Splitting
 
@@ -147,7 +147,7 @@ To merge two adjacent areas into one is exactly the same as shown in Figure 1.25
 but it is done in reverse order. Optionally, you can click with the right mouse button
 in the edge of the area you want to split or join, and select the option in the Area Options pop-up menu.
 
-.. figure:: /images/Chapter1/Fig01-27.png
+.. figure:: /source/images/Chapter1/Fig01-27.png
    :figwidth: 25%
    :align: left
 
@@ -157,7 +157,7 @@ Not only can you change the size and layout of the editor,
 but the type of editor can also be changed. As you can see in Figure 1.27,
 the left-most icon in the header can be used to change the editor type.
 
-.. figure:: /images/Chapter1/Fig01-28.png
+.. figure:: /source/images/Chapter1/Fig01-28.png
    :figwidth: 45%
    :align: right
 
@@ -183,7 +183,7 @@ in this chapter, using both the mouse and the keyboard.
 Viewport Shading Modes
 ----------------------
 
-.. figure:: /images/Chapter1/Fig01-29.png
+.. figure:: /source/images/Chapter1/Fig01-29.png
    :figwidth: 25%
    :align: right
 
@@ -292,7 +292,7 @@ to control the degree of the effect. To finalize the transformation, left-click 
 Search
 ------
 
-.. figure:: /images/Chapter1/Fig01-30.png
+.. figure:: /source/images/Chapter1/Fig01-30.png
    :figwidth: 30%
    :align: right
 
@@ -349,11 +349,11 @@ go to File > User Preferences (Ctrl + Alt + U), then switch to Input tab and ena
 option to use main 1 to 0 keys instead of Numpad keys. If you want this setting
 remain permanently, click on the "Save User Settings" button.
 
-.. figure:: /images/Chapter1/Fig01-30.png
+.. figure:: /source/images/Chapter1/Fig01-30.png
 
    Emulate Numpad
 
-.. figure:: /images/Chapter1/Fig01-31.png
+.. figure:: /source/images/Chapter1/Fig01-31.png
    :figwidth: 20%
    :align: right
 
@@ -419,7 +419,7 @@ data block represents a collection of data or settings. Some common datablock ty
 you will encounter are Object datablock, Mesh datablock, Material datablock, Texture datablock,
 and Image datablock.
 
-.. figure:: /images/Chapter1/Fig01-32.png
+.. figure:: /source/images/Chapter1/Fig01-32.png
    :figwidth: 30%
    :align: right
 
@@ -438,7 +438,7 @@ Scene > Object > Mesh > Material > Texture > Image
 Throughout the Blender interface, you will run into many datablock managers.
 They all look like Figure 1.33.
 
-.. figure:: /images/Chapter1/Fig01-33.png
+.. figure:: /source/images/Chapter1/Fig01-33.png
    :figwidth: 30%
    :align: left
 
